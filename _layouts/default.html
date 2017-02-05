@@ -1,0 +1,24 @@
+ <!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<meta name="description" content="Indivisible group for northern San Mateo and southwestern San Francisco counties">
+		<title>Indivisible CA-14</title>
+
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css">
+		<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+		<script src="https://code.jquery.com/jquery-3.1.1.slim.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js"></script>
+		<link href="https://fonts.googleapis.com/css?family=Roboto|Open+Sans" rel="stylesheet"> 
+		<link rel="stylesheet" href="/assets/main.css">
+	</head>
+  <body>
+    {% include header.html %}
+    <div class="container" aria-label="Content">
+		{{ content }}
+    </div>
+    {% include footer.html %}
+  </body>
+</html>

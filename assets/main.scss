@@ -1,0 +1,71 @@
+---
+
+---
+
+.header {
+  margin: 0rem 5rem;
+}
+
+.header, h1, h2, h3 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 800;
+  margin-top: 1rem;
+}
+
+.header h1 {
+  font-family: 'Roboto', cursive;
+  font-weight: 800;
+  color: #AA3939;
+}
+
+.container > h2, h3 {
+  color: #AA3939;
+  text-align: center;
+  padding: 1rem 0rem 0.5rem 0rem;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+}
+
+a {
+  color: #5E5293;
+}
+
+a:hover {
+  color: #11073B;
+}
+
+html {
+  height: 100%;
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.container {
+  padding: 20px;
+  max-width: 46rem;
+}
+
+body {
+  position: relative;
+  padding-bottom: 21rem;
+  min-height: 100%;
+}
+
+footer {
+  text-align: center;
+  position: absolute;
+  bottom: 0;
+  padding: 8rem 0rem 12rem 0rem;
+  margin: 0rem 0rem;
+  width: 100%;
+  background: url(san_bruno_mountain.jpg);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
