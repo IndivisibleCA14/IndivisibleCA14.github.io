@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<h2>{{ page.title }}</h2>
+<h4>
+	<time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%b %-d, %Y" }}</time>
+</h4>
+{{ content }}
+
+<div class="row news-footer">
+	<div class="col">
+		{% if page.previous.url %}
+		<a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" title="{{page.previous.title}}">&larr; Previous Post</a>
+		{% endif %}
+	</div>
+	<div class="col text-center">
+		<a href="{{ site.base_url }}/news">All News &uarr;</a>
+	</div>
+	<div class="col text-right">
+		{% if page.next.url %}
+		<a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" title="{{page.next.title}}">Next Post &rarr;</a>
+		{% endif %}
+	</div>
+</div>
