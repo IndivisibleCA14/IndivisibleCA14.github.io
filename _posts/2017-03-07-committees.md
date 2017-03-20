@@ -12,6 +12,7 @@ The contact numbers for some relevant committees are:
  - House Committee of Foreign Affairs [202-225-5021](tel:202-225-5021) 
  - House Intelligence Committee (Speier is a member) [202-225-5021](tel:202-225-5021)
  - House Judiciary Committee [202-225-3951](tel:202-225-3951)
+ - Senate Committee on Homeland Security & Govermental Affairs [202-224-4751](tel:202-224-4751)
 
 We can also contact specific members of the Judiciary Committee:
 
