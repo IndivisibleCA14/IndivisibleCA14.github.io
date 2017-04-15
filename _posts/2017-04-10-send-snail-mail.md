@@ -4,7 +4,7 @@ title: Send Snail Mail
 date: 2017-04-10 12:00:00 -0800
 categories: action
 ---
-Send Snail Mail!
+Take an opportunity to thank some representative (and companies) for taking a stand for the right things:
 
     - Thank Rep. Walter Jones (R-NC) for [publicly supporting](http://thehill.com/homenews/house/326184-first-gop-lawmaker-calls-for-nunes-to-recuse-himself) Nunes’ recusal. Address: Rep. Walter Jones, 2333 Rayburn HOB, Washington, DC 20515
     - Thank ExxonMobil for encouraging the US to [stay in the Paris Agreement](http://www.vanityfair.com/news/2017/03/even-exxonmobil-is-begging-trump-to-show-the-environment-mercy). Address: ExxonMobil Corporate Headquarters, 5959 Las Colinas Boulevard, Irving, TX, 75039-2298

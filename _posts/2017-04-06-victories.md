@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Celebrations
+title: Victories
 ---
 We have some celebrations this week:
 
@@ -10,4 +10,4 @@ We have some celebrations this week:
 
 You all made this happen! **This meeting was the direct result of our members' efforts**: your emails and letters, your attendance at her town halls, and your calls to her office. We hope it will be the first of many such meetings!
 
-Also this past weekend, our group had a table at Jackie Speier's "Take Back America" activist resource fair. Here are some photos!
+Also this past weekend, our group had a table at Jackie Speier's "Take Back America" activist resource fair!
