@@ -1,3 +1,9 @@
+---
+layout: post
+title: Technology for getting involved
+date: 2017-03-19 12:00:00 -0800
+categories: action
+---
 There are a lot of cool new technologies for keeping track of and keeping the pressure up on our Members of Congress:
 
  - How to set up a [google news alert for your Member of Congress](https://support.google.com/websearch/answer/4815696?hl=en)
